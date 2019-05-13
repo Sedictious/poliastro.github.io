@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>poliastro - Jorge Martínez Garrido</title><link>https://blog.poliastro.space/</link><description>poliastro website</description><lastBuildDate>Fri, 10 May 2019 11:00:00 +0200</lastBuildDate><item><title>GSOC-19 starts!</title><link>https://blog.poliastro.space/2019/05/10/2019-05-10-poliastro-gsoc-jorge/</link><description>&lt;h2&gt;From my first pull request to GSOC student&lt;/h2&gt;
+&lt;p&gt;Hi, my name is Jorge, and I am one of the selected students for this GSOC
+edition at poliastro under the OpenAstronomy organization. I started working on
+poliastro project after Juanlu came to my university to give a talk about Open
+Source software in engineering. &lt;/p&gt;
+&lt;p&gt;After forking poliastro, I decided to improve API Docs, which gave me an
+overview on how the project was built and how the different modules talked
+among them. I had no idea on how Git and GitHub worked and therefore,
+when finished with the docs my first pull request was quite massive...&lt;/p&gt;
+&lt;p&gt;But after that I started feeling more confortable with GitHub and Sphinx, the
+tool used nowadays in poliastro for building documentation. Then, I decided to
+work on a porkchop plotter.&lt;/p&gt;
+&lt;p&gt;I spent the week after …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jorge Martínez Garrido</dc:creator><pubDate>Fri, 10 May 2019 11:00:00 +0200</pubDate><guid isPermaLink="false">tag:blog.poliastro.space,2019-05-10:2019/05/10/2019-05-10-poliastro-gsoc-jorge/</guid><category>GSOC</category><category>GSOC19</category><category>poliastro</category></item></channel></rss>

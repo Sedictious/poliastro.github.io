@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>poliastro - Jorge Martínez Garrido</title><link href="https://blog.poliastro.space/" rel="alternate"></link><link href="https://blog.poliastro.space/feeds/jorge-martinez-garrido.atom.xml" rel="self"></link><id>https://blog.poliastro.space/</id><updated>2019-05-10T11:00:00+02:00</updated><subtitle>poliastro website</subtitle><entry><title>GSOC-19 starts!</title><link href="https://blog.poliastro.space/2019/05/10/2019-05-10-poliastro-gsoc-jorge/" rel="alternate"></link><published>2019-05-10T11:00:00+02:00</published><updated>2019-05-10T11:00:00+02:00</updated><author><name>Jorge Martínez Garrido</name></author><id>tag:blog.poliastro.space,2019-05-10:2019/05/10/2019-05-10-poliastro-gsoc-jorge/</id><summary type="html">&lt;h2&gt;From my first pull request to GSOC student&lt;/h2&gt;
+&lt;p&gt;Hi, my name is Jorge, and I am one of the selected students for this GSOC
+edition at poliastro under the OpenAstronomy organization. I started working on
+poliastro project after Juanlu came to my university to give a talk about Open
+Source software in engineering. &lt;/p&gt;
+&lt;p&gt;After forking poliastro, I decided to improve API Docs, which gave me an
+overview on how the project was built and how the different modules talked
+among them. I had no idea on how Git and GitHub worked and therefore,
+when finished with the docs my first pull request was quite massive...&lt;/p&gt;
+&lt;p&gt;But after that I started feeling more confortable with GitHub and Sphinx, the
+tool used nowadays in poliastro for building documentation. Then, I decided to
+work on a porkchop plotter.&lt;/p&gt;
+&lt;p&gt;I spent the week after …&lt;/p&gt;</summary><category term="GSOC"></category><category term="GSOC19"></category><category term="poliastro"></category></entry></feed>
